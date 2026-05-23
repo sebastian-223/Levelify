@@ -50,7 +50,6 @@ all in one seamless and beautiful experience.
 The platform is built with a **modern SaaS-inspired UI**, smooth interactions, glassmorphism design, and scalable frontend architecture.
 
 ---
----
 
 ## 📱 Features (10 Modules)
 
