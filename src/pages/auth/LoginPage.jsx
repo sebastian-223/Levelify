@@ -157,7 +157,7 @@ export default function LoginPage() {
             }}
           >
             <h2 className="text-lg font-bold text-white mb-0.5" style={{ fontFamily: "'Syne',sans-serif" }}>
-              Welcome back 👋
+              Welcome back user👋
             </h2>
             <p className="text-xs text-white/40 mb-5 font-light">Sign in to continue your learning journey</p>
 
