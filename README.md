@@ -4,6 +4,7 @@
   <img src="https://img.shields.io/github/issues/rajmanvi17/Levelify" />
   <img src="https://img.shields.io/badge/PRs-Welcome-brightgreen.svg" />
   <img src="https://img.shields.io/badge/License-MIT-blue.svg" />
+  <img src="https://img.shields.io/github/contributors/rajmanvi17/Levelify" />
 </p>
 
 
