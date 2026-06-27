@@ -1,3 +1,7 @@
+> 🚀 **Looking for your first open-source contribution?**
+>
+> Check the **Issues** tab for `good first issue` labels and start contributing today!
+
 <p align="center">
   <img src="https://img.shields.io/github/stars/rajmanvi17/Levelify" />
   <img src="https://img.shields.io/github/forks/rajmanvi17/Levelify" />
@@ -5,6 +9,8 @@
   <img src="https://img.shields.io/badge/PRs-Welcome-brightgreen.svg" />
   <img src="https://img.shields.io/badge/License-MIT-blue.svg" />
   <img src="https://img.shields.io/github/contributors/rajmanvi17/Levelify" />
+  <img src="https://img.shields.io/github/issues-pr/rajmanvi17/Levelify" />
+  <img src="https://img.shields.io/github/last-commit/rajmanvi17/Levelify" /> 
 </p>
 
 
@@ -55,6 +61,12 @@ Instead of managing learning across multiple platforms, Levelify combines:
 all in one seamless and beautiful experience.
 
 The platform is built with a **modern SaaS-inspired UI**, smooth interactions, glassmorphism design, and scalable frontend architecture.
+
+## 🎯 Why Levelify?
+
+Students often switch between multiple platforms for notes, coding practice, roadmaps, certifications, and learning resources. This makes learning fragmented and difficult to manage.
+
+**Levelify** brings everything together into a single AI-powered platform that helps learners stay organized, consistent, and placement-ready.
 
 ---
 
@@ -227,6 +239,29 @@ Levelify/
 - Target bundle: **< 200KB** initial JS (gzipped)
 - Manual chunk splitting: react-vendor | motion | charts | store
 
+## 🏗️ Architecture
+
+```text
+User
+   │
+   ▼
+React UI
+   │
+   ▼
+React Router
+   │
+   ▼
+Zustand Store
+   │
+   ▼
+Services Layer
+   │
+   ▼
+Future Backend API
+   │
+   ▼
+Database
+```
 ---
 
 ## 🔌 Backend Integration Checklist
@@ -350,22 +385,11 @@ If you found **Levelify** useful:
 Your support helps improve the project.
 
 ---
-# 🤝 Contributing
-
-We welcome contributions from everyone.
-
-If you're new to open source, check our issues labeled:
-
-- good first issue
-- documentation
-- enhancement
-
-Fork the repository and submit a Pull Request.
-
-Happy Coding ❤️
 
 <p align="center">
-Built with 🩵 by <strong>Manvi Raj</strong>
+Made with ❤️ by <strong>Manvi Raj</strong>
+
+⭐ If you like this project, don't forget to star the repository.
 </p>
 
 
