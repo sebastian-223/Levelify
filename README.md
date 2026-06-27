@@ -350,6 +350,19 @@ If you found **Levelify** useful:
 Your support helps improve the project.
 
 ---
+# 🤝 Contributing
+
+We welcome contributions from everyone.
+
+If you're new to open source, check our issues labeled:
+
+- good first issue
+- documentation
+- enhancement
+
+Fork the repository and submit a Pull Request.
+
+Happy Coding ❤️
 
 <p align="center">
 Built with 🩵 by <strong>Manvi Raj</strong>
