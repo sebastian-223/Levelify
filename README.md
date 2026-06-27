@@ -1,4 +1,13 @@
-# 🚀 Levelify — Learn Better. Grow Smarter.
+<p align="center">
+  <img src="https://img.shields.io/github/stars/rajmanvi17/Levelify" />
+  <img src="https://img.shields.io/github/forks/rajmanvi17/Levelify" />
+  <img src="https://img.shields.io/github/issues/rajmanvi17/Levelify" />
+  <img src="https://img.shields.io/badge/PRs-Welcome-brightgreen.svg" />
+  <img src="https://img.shields.io/badge/License-MIT-blue.svg" />
+</p>
+
+
+# 🚀 Levelify - Learn Better, Grow Smarter.
 
 <p align="center">
   <strong>AI-Powered Learning & Career Growth Platform</strong><br/>
