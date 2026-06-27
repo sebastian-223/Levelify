@@ -31,11 +31,8 @@
 ---
 ## 🌐 Live Demo
 
-🔗 **Live Website:**  
-https://levelify.vercel.app/
-
-📂 **GitHub Repository:**  
-https://github.com/rajmanvi17/Levelify
+- 🚀 [Live Demo](https://levelify.vercel.app)
+- 💻 [GitHub Repository](https://github.com/rajmanvi17/Levelify)
 
 ---
 
@@ -332,17 +329,10 @@ Passionate about building smart, scalable, and impactful digital experiences thr
 
 ## 🌐 Let's Connect
 
-💼 **LinkedIn**  
-https://www.linkedin.com/in/manvi-raj-593747274
-
-✍️ **Medium**  
-https://medium.com/@manvi.raj60
-
-🔗 **GitHub**  
-https://github.com/rajmanvi17
-
-🌍 **Live Project**  
-https://levelify.vercel.app/
+- 💼 [LinkedIn](https://www.linkedin.com/in/manvi-raj-593747274)
+- ✍️ [Medium](https://medium.com/@manvi.raj60)
+- 💻 [GitHub](https://github.com/rajmanvi17)
+- 🚀 [Live Demo](https://levelify.vercel.app)
 
 💡 Open to collaboration, frontend opportunities, and impactful projects.
 
